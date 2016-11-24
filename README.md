@@ -3,7 +3,7 @@ by Joe Pitt-Francis and Jonathan Whiteley. Springer, 2012
 
 List examples and exercises in the text book.
 
-Contents
+Contents <br />
 ch 1 Getting Started <br />
 ch 2 Flow of Control <br />
 ch 3 File Input and Output <br />
